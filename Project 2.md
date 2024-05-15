@@ -110,6 +110,10 @@ And here are the observed vs predicted values plot:
 
 ![[Screenshot 2024-05-14 195327.png|center|500]]
 
+we have tried to improve our model by introducing some quadratic variables. But it didn’t worked out as R^2 was around 0.45 indicating a poor model. 
+We have also tried to implement GLS and it hasn't made any difference. 
+
+
 #### Results and Interpretations
 
 #### Discussion
